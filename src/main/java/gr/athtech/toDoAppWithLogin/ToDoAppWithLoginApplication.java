@@ -19,4 +19,7 @@ public class ToDoAppWithLoginApplication {
     public static void setFirstTime(boolean firstTime) {
         ToDoAppWithLoginApplication.firstTime = firstTime;
     }
+
+    //This is a comment
+    //This is a comment
 }
